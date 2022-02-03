@@ -1,7 +1,7 @@
 # Dynamic Forms
 Dynamically generate UI forms from objects or cursors via a "markup syntax” in your code.
 
-(Note: Documentation pages are in the process of being migrated from the original VFPx/CodePlex site to this GitHub repo.)
+> Note: Matt's original repository is at https://github.com/mattslay/DynamicForms but since he sadly passed away in 2021, this fork is now the one the VFPX project list links to so others can contribute to the project.
 
 ![Dynamic Forms Logo](Documentation/Images/Dynamic%20Forms%20Logo.jpg "Dynamic Forms Logo")
 
