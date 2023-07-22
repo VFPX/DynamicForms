@@ -196,9 +196,9 @@ EndText
 
 
 AddProperty(toUpdateInfo, 'AvailableVersion', 'Dynamic Form - 1.9.1 - August 30, 2017 - 20170830')
-AddProperty(toUpdateInfo, 'SourceFileUrl', 'http://bit.ly/DynamicForms_Ver_1_9')
+AddProperty(toUpdateInfo, 'SourceFileUrl', 'https://raw.githubusercontent.com/VFPX/DynamicForms/master/DynamicForms.zip')
 AddProperty(toUpdateInfo, 'LinkPrompt', 'Dynamic Forms Home Page')
-AddProperty(toUpdateInfo, 'Link', 'https://github.com/mattslay/DynamicForms')
+AddProperty(toUpdateInfo, 'Link', 'https://github.com/VFPX/DynamicForms')
 AddProperty(toUpdateInfo, 'Notes', lcNote)
 
 Execscript (_Screen.cThorDispatcher, 'Result=', toUpdateInfo)
