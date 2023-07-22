@@ -4,5 +4,4 @@
 *.FXP
 FOXUSER.*
 *_ref.*
-*.zip
 DeployDynamicForm.ps1
